@@ -1,4 +1,5 @@
 # Real-Time Weather Streaming Pipeline
+![Real-Time Weather Streaming Pipeline](docs/screenshots/weather-pipeline-workflow.png)
 
 An end-to-end data engineering project that collects live weather measurements from two providers, streams them through Apache Kafka, processes them with Spark Structured Streaming, stores time-series data in InfluxDB, and visualizes the results in Grafana.
 
